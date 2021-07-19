@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajaduggirala
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently react js 
+- 🌱 I’m currently learning rect js
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 DUGGIRALA RAJA my linked in profile
 
